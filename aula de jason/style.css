@@ -1,0 +1,25 @@
+body{
+    background-color: pink;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+input{
+    width: 250px;
+    border-radius: 50px;
+    background-color: pink;
+}
+
+.bib{
+    border-radius: 50px;
+    border: solid  ;
+    border-color: pink;
+    background-color: aqua;
+}
+
+button{
+    color: black;
+    background-color: pink;
+}
+
+div{
+    text-align: center;
+}
